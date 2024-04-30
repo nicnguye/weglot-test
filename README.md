@@ -6,5 +6,5 @@ Install packages and run test script
 - npm i
 - npm run test
 
-## Run single input file
+## Run an input file
 - npm run start ./data/input1.txt
